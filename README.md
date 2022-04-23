@@ -12,3 +12,8 @@ I feel that this project has given me more experience with microcontrollers and 
 # Morse-Code-Embedded-System
 I created a Morse code unit that uses GPIO interrupts via button input to flash an LED to output SOS or OK in Morse Code. 
 
+I feel that I did well on the implentation of state machines as this was first time uisng them.
+
+I would like to improve the capability of this device to be able to read a user input and output in morse code the letters that are entered matching the key that is typed on a keyboard input.
+
+This device currently requires the use of a TI SimpleLink Wi-Fi CC3220S microcontroller to function.
